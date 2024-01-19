@@ -7,7 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/GregoryVi1">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GregoryVi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GregoryVi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GregoryVi1&layout=compact&langs_count=7&theme=onedark"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Adrian-MySQL" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
